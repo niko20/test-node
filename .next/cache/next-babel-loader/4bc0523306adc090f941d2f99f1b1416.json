@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nexport default (() => React.createElement(\"div\", null, \"b\"));","map":{"version":3,"sources":["/Users/nico/www/test-next/pages/b.js"],"names":[],"mappings":";AAAA,gBAAe,MAAM,qCAArB","sourcesContent":["export default () => <div>b</div>\n"]},"metadata":{},"sourceType":"module"}
